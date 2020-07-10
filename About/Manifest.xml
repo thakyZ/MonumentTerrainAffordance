@@ -2,9 +2,13 @@
 <Manifest>
   <identifier>NekoBoiNick.Vanilla.MonumentTerrainAffordance</identifier>
   <version>1.0.0</version>
-  <dependencies />
+  <dependencies>
+    <li>brrainz.harmony</li>
+  </dependencies>
   <incompatibleWith />
-  <loadAfter />
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
   <suggests />
   <manifestUri>https://raw.githubusercontent.com/thakyZ/MonumentTerrainAffordance/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/thakyZ/MonumentTerrainAffordance/releases</downloadUri>
