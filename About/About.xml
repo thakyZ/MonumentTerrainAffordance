@@ -17,14 +17,12 @@
       <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
   </modDependencies>
-  <description>
-    Forces monument markers to use specific terrain affordances.
+  <description>Forces monument markers to use specific terrain affordances.
 
-    These affordances range from light, medium, and heavy.
+These affordances range from light, medium, and heavy.
 
-    This should fix bugs in mods like VGP Tools which can cause the monument markers to contain reclaimed soil or place soils terrain types which break the placing of the monument markers in most cases.
+This should fix bugs in mods like VGP Tools which can cause the monument markers to contain reclaimed soil or place soils terrain types which break the placing of the monument markers in most cases.
 
-    This mod does not require the Royalty DLC as it can also affect the ruin monuments in the world from the core game.
-  </description>
+This mod does not require the Royalty DLC as it can also affect the ruin monuments in the world from the core game.</description>
   <url>https://steamcommunity.com/id/thakyZ/myworkshopfiles/?appid=294100</url>
 </ModMetaData>
